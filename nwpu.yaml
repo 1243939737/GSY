@@ -1,0 +1,17 @@
+train: D:/toolD/pycharmprojects/yolov8-8.2.0-cbamdandu/ultralytics/sjj/NWPU/defect/images/train # train images
+val: D:/toolD/pycharmprojects/yolov8-8.2.0-cbamdandu/ultralytics/sjj/NWPU/defect/images/val # val images
+
+nc: 10
+
+# class names
+names: [
+  '飞机',
+  '船只',
+  '储油罐',
+  '棒球场',
+  '网球场',
+  '篮球场',
+  '跑道场地',
+  '港口',
+  '桥梁',
+  '车辆',]

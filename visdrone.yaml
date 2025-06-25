@@ -1,0 +1,19 @@
+train: D:/toolD/pycharmprojects/yolov8-8.2.0-cbam/ultralytics/visdrone2019/images/train # train images
+val: D:/toolD/pycharmprojects/yolov8-8.2.0-cbam/ultralytics/visdrone2019/images/val # val images
+
+nc: 12
+
+# class names
+names: [
+  'ignored regions',
+  'pedestrian',
+  'people',
+  'bicycle',
+  'car',
+  'van',
+  'truck',
+  'tricycle',
+  'awning-tricycle',
+  'bus',
+  'motor',
+  'others']
